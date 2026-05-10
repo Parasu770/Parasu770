@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parasuraman</h1>
 
 <h3 align="center">
-AI & Full Stack Developer | Machine Learning Enthusiast | Research-Oriented Developer
+AI & Full Stack Developer | Machine Learning Enthusiast | Research-Oriented Developer | Data Analyst 
 </h3>
 
 ---
